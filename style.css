@@ -1,0 +1,30 @@
+/* style.css */
+.Odin {
+    font-size: 34px;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    text-align: center;
+    background-color: rgb(92, 41, 41);
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+.cott {
+    font-size: 50;
+    color: brown;
+    text-align: left;
+}
+
+.tea {
+    font-size: 30;
+    color: darkorchid;
+    text-align: center;
+}
+
+.spag {
+    font-size: 30;
+    color: black;
+    text-align: right;
+}
